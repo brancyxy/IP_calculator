@@ -1,0 +1,7 @@
+C:\Users\branc\source\repos\IP_calculator\IP_calculator\bin\Debug\IP_calculator.exe.config
+C:\Users\branc\source\repos\IP_calculator\IP_calculator\bin\Debug\IP_calculator.exe
+C:\Users\branc\source\repos\IP_calculator\IP_calculator\bin\Debug\IP_calculator.pdb
+C:\Users\branc\source\repos\IP_calculator\IP_calculator\obj\Debug\IP_calculator.csproj.CoreCompileInputs.cache
+C:\Users\branc\source\repos\IP_calculator\IP_calculator\obj\Debug\IP_calculator.exe
+C:\Users\branc\source\repos\IP_calculator\IP_calculator\obj\Debug\IP_calculator.pdb
+C:\Users\branc\source\repos\IP_calculator\IP_calculator\obj\Debug\IP_calculator.csprojResolveAssemblyReference.cache
